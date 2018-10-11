@@ -5,4 +5,6 @@
 import time 
 print time.ctime()
 ```
-cs231b assignment1 
+cs231b assignment1
++ 我
++ 你 
